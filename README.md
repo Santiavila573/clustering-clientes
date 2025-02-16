@@ -1,5 +1,7 @@
 # Segmentación de Clientes con K-Means
 
+<img src="https://github.com/Santiavila573/clustering-clientes/blob/f715df2ab969701a580761e45dedfcbca83392a5/resultado-clustering.png?raw=true" alt="resultado-clustering" width="450"/>
+
 ## 🚀 Funcionamiento
 
 El programa sigue estos pasos:
@@ -52,4 +54,4 @@ Cada grupo representa un comportamiento de compra similar.
 
 ## 📝 Conclusión
 
-Hemos utilizado K-Means y datos simulados para agrupar clientes según su frecuencia de compras y el monto gastado. Este enfoque es útil para segmentar clientes y desarrollar estrategias de marketing personalizadas.
+Se utilizó K-Means y datos simulados para agrupar clientes según su frecuencia de compras y el monto gastado. Este enfoque es útil para segmentar clientes y desarrollar estrategias de marketing personalizadas.
